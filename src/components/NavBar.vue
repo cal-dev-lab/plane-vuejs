@@ -1,6 +1,6 @@
 <template>
-  <header>
-    <nav className="bg-white  sticky top-0 z-30">
+  <header class="sticky top-0 z-30">
+    <nav className="bg-white">
       <div className="max-w-6xl px-8 mx-auto">
         <div className="flex justify-between">
           <div className="flex space-x-4">
