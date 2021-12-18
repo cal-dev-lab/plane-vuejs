@@ -23,7 +23,7 @@
               <a
                 className="uppercase tracking-wide text-xs tracking-widest py-5 px-3 hover:underline hover:text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-pink-500 transition duration-500"
               >
-                <router-link to="/blog">Blog</router-link>
+                <router-link to="planes">Planes</router-link>
               </a>
               <a
                 className="uppercase tracking-wide text-xs tracking-widest py-5 px-3 hover:underline hover:text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-pink-500 transition duration-500"
@@ -34,7 +34,7 @@
               <a
                 className="uppercase tracking-wide text-xs tracking-widest py-5 px-3 hover:underline hover:text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-pink-500 transition duration-500"
               >
-                <router-link to="planes">Planes</router-link>
+                <router-link to="blog">Blog</router-link>
               </a>
             </div>
           </div>
