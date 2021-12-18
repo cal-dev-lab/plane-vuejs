@@ -7,7 +7,7 @@
             <div className="">
               <a href="/#" className="flex items-center py-5 px-2 text-gray-700">
                 <span
-                  className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-pink-500 text-xl hover:text-indigo-600 transition duration-300"
+                  className="font-bold text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-pink-500 text-xl hover:text-indigo-600 transition duration-300"
                 >
                   air11-UK
                 </span>
