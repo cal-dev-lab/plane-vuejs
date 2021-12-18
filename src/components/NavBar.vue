@@ -1,6 +1,6 @@
 <template>
   <header class="sticky top-0 z-30">
-    <nav className="bg-white">
+    <nav className="bg-white shadow-sm border-b-2 border-gray-200">
       <div className="max-w-6xl px-8 mx-auto">
         <div className="flex justify-between">
           <div className="flex space-x-4">
@@ -89,5 +89,6 @@
 <script type="text/js">
 export default {
   name: "NavBar",
+  methods: {}
 };
 </script>
