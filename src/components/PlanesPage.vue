@@ -33,15 +33,15 @@ export default {
     return {
       // START: Data for planes
       planes: [
-        { title: 'ATR-42', id: 1, image: 'http://via.placeholder.com/450x250' },
-        { title: 'ATR-72', id: 2, image: 'http://via.placeholder.com/450x250' },
-        { title: 'Airbus A220', id: 3, image: 'http://via.placeholder.com/450x250' },
-        { title: 'Airbus A300', id: 4, image: 'http://via.placeholder.com/450x250' },
-        { title: 'Airbus A310', id: 5, image: 'http://via.placeholder.com/450x250' },
-        { title: 'Airbus A318', id: 6, image: 'http://via.placeholder.com/450x250' },
-        { title: 'Airbus A319', id: 7, image: 'http://via.placeholder.com/450x250' },
-        { title: 'Airbus A320', id: 8, image: 'http://via.placeholder.com/450x250' },
-        { title: 'Airbus A321', id: 9, image: 'http://via.placeholder.com/450x250' }
+        { title: 'ATR-42', id: 1, image: 'https://via.placeholder.com/450x250' },
+        { title: 'ATR-72', id: 2, image: 'https://via.placeholder.com/450x250' },
+        { title: 'Airbus A220', id: 3, image: 'https://via.placeholder.com/450x250' },
+        { title: 'Airbus A300', id: 4, image: 'https://via.placeholder.com/450x250' },
+        { title: 'Airbus A310', id: 5, image: 'https://via.placeholder.com/450x250' },
+        { title: 'Airbus A318', id: 6, image: 'https://via.placeholder.com/450x250' },
+        { title: 'Airbus A319', id: 7, image: 'https://via.placeholder.com/450x250' },
+        { title: 'Airbus A320', id: 8, image: 'https://via.placeholder.com/450x250' },
+        { title: 'Airbus A321', id: 9, image: 'https://via.placeholder.com/450x250' }
       ],
       // END: Data for planes
     };
