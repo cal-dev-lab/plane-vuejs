@@ -11,6 +11,8 @@ I have used Netlify for this as it is super quick for deployment and can host mu
 After a bit of researching, I have found a great article for installing Tailwind with VueJS:
 https://www.sanity.io/guides/tailwind-css-with-vue-js
 
+## Animation libraries
+https://github.com/adedayojs/vue-particlejs/#demonstration
 ## Project setup
 ```
 npm install
