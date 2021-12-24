@@ -7,7 +7,7 @@
     </h1>
     <p class="text-sm text-gray-600">The latest and greatest planes from 1970 - present.</p>
   </div>
-  <div class="min-h-screen flex items-center mx-auto">
+  <div class="flex items-center mx-auto">
     <div class="flex-1 max-w-6xl mx-auto p-10 items-center">
       <ul class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3 px-2">
         <!-- START: Loop over JSON in <script> and spit out data -->
