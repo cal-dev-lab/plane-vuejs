@@ -13,6 +13,10 @@ https://www.sanity.io/guides/tailwind-css-with-vue-js
 
 ## Animation libraries
 https://github.com/adedayojs/vue-particlejs/#demonstration
+
+## Linking Strapi CMS to VueJS
+https://strapi.io/blog/how-to-build-and-deploy-a-vue-js-application-using-strapi-on-render
+
 ## Project setup
 ```
 npm install
